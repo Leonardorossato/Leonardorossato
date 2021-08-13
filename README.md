@@ -1,7 +1,5 @@
 Ola eu sou o Leonardo Adami Rossato Rodrigues👋
 
-Here are some ideas to get you started:
-
  🔭 Hoje eu trabalho com front-end e back-end.
  🌱 Sempre aprendendo sobre React.Js, Node.Js, Experess , Css, Bootstrap...
  <div>
