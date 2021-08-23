@@ -13,5 +13,5 @@ Ola eu sou o Leonardo Adami Rossato Rodrigues👋
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/NodeJs-original.svg">
-  <img align="center" alt="Leo-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/typescript-original.svg">
+  <img align="center" alt="Leo-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/Typescript-plain.svg">
  </div>
