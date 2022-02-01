@@ -1,7 +1,7 @@
 Ola eu sou o Leonardo Adami Rossato Rodrigues👋
 
  🔭 Hoje eu trabalho com Azure Devops.
- 🌱 Sempre buscando aprender sobre React.Js, Node.Js, Experess , Css, Bootstrap...
+ 🌱 Atualmente trabalhado com AzureDevOps; mas sempre procuro me especializar em programação para ser full-stack
  <div>
   <a href="https://github.com/Leonardorossato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardorossato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
