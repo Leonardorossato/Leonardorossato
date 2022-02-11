@@ -2,6 +2,12 @@ Ola eu sou o Leonardo Adami Rossato Rodrigues👋
 
  🔭 Hoje eu trabalho com Azure Devops.
  🌱 Atualmente trabalhado com AzureDevOps; mas sempre procuro me especializar em programação para ser full-stack
+ 
+ <dvi>
+    <a href="https://github.com/Leonardorossato">
+     <img align="center" alt="Leo-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
+ </div>
+ 
  <div>
   <a href="https://github.com/Leonardorossato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardorossato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
