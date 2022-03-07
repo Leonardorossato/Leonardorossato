@@ -1,7 +1,7 @@
 Ola eu sou o Leonardo Adami Rossato Rodrigues👋
 
  🔭 Hoje eu trabalho com Azure Devops.
- 🌱 Atualmente trabalhado com AzureDevOps; mas sempre procuro me especializar em programação para ser full-stack
+ 🌱 Atualmente trabalhado com AzureDevOps(Boards e Queries). Atualmente estou buscando conhecimento para me formar como dev-backend senior.
  
  Programas usados para codar : 
  <div style="display: inline_block">
@@ -16,8 +16,8 @@ Ola eu sou o Leonardo Adami Rossato Rodrigues👋
  </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Leo-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Leo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoDB/mongoDB-original.svg">
+  <img align="center" alt="Leo-Sqlite3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite3/sqlite3-original.svg">
  </div>
