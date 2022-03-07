@@ -19,5 +19,5 @@ Ola eu sou o Leonardo Adami Rossato Rodrigues👋
   <img align="center" alt="Leo-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Leo-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Leo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoDB/mongoDB-original.svg">
-  <img align="center" alt="Leo-Sqlite3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite3/sqlite3-original.svg">
+  <img align="center" alt="Leo-Sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
  </div>
