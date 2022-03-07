@@ -1,6 +1,6 @@
-Ola eu sou o Leonardo Adami Rossato Rodrigues👋
+Ola eu sou o Leonardo Adami Rossato Rodrigues, preazer em conhece-los👋
 
- 🔭 Hoje eu trabalho com Azure Devops.
+ 🔭 Sou estudante de sistemas de informação, estou no 5 periodo noturno.
  🌱 Atualmente trabalhado com AzureDevOps(Boards e Queries). Atualmente estou buscando conhecimento para me formar como dev-backend senior.
  
  Programas usados para codar : 
