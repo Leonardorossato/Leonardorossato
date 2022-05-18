@@ -1,7 +1,7 @@
 Ola eu sou o Leonardo Adami Rossato Rodrigues, preazer em conhece-los👋
 
  🔭 Sou estudante de sistemas de informação, estou no 5 periodo noturno.
- 🌱 Atualmente trabalhado com AzureDevOps(Boards e Queries). Atualmente estou buscando conhecimento para me formar como dev-backend senior.
+ 🌱 Atualmente estou buscando conhecimento para me formar como dev-backend senior.
  Atualmente estou trabalhando com estagiario de backend na empresa Costanox Distribuidora de Aço Inox
  
  Programas usados para codar : 
