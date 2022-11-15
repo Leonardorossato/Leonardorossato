@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Adami Rossato Rodrigues</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 💬 Ask me about **node.js, express, mongoDB, Mysql e Sequelize**
+- 💬 Ask me about **Node.js, NestJs, TypeOrmm, Swagger, express, MongoDB, Mysql amd Sequelize**
 
 - 📫 How to reach me **leonardorossato21@gmail.com**
 
